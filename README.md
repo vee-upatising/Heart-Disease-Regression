@@ -1,5 +1,5 @@
 # Regression
-Exploring Regression with Regression Trees, K Nearest Neighbor, Ridge, and Lasso
+Exploring Regression with Regression Trees, K Nearest Neighbor, Ridge, and Lasso using K-Fold Cross Validation
 
 # Data
 The goal of this project is to find a mapping of these features to risk in heart disease
@@ -13,7 +13,8 @@ I used K-Fold Cross Validation to perform model selection
 ![Linear](https://i.imgur.com/Lc8xdFo.png)
 ![Linear](https://i.imgur.com/xHET8As.png)
 ![ANN](https://i.imgur.com/j67cGhn.png)
+![ANN Loss](https://i.imgur.com/IZzh1dq.png)
 
-# K Fold Cross Validation Scores
+# K-Fold Cross Validation Scores
 Using K = 5 </br>
 ![loss](https://i.imgur.com/euBrTS9.png)
