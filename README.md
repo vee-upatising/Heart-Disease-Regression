@@ -12,3 +12,8 @@ I used K-Fold Cross Validation to perform model selection
 ![KNN](https://i.imgur.com/wf0fkLr.png)
 ![Linear](https://i.imgur.com/Lc8xdFo.png)
 ![Linear](https://i.imgur.com/xHET8As.png)
+![ANN](https://i.imgur.com/j67cGhn.png)
+
+# K Fold Cross Validation Scores
+Using K = 5 </br>
+![loss](https://i.imgur.com/euBrTS9.png)
